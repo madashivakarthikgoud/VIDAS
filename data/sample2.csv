@@ -1,0 +1,11 @@
+﻿title,views,likes,dislikes,trending_date,category_id,tags,channel_title,true_sentiment,comment_count,description
+Video A,100000,5000,200,23.15.06,10,tag1|tag2,Channel A,Positive,100,Great video!
+Video B,80000,4000,150,23.16.06,24,tag2|tag3,Channel B,Positive,80,Great video!
+Video C,120000,6000,250,23.17.06,25,tag1|tag4,Channel A,Positive,120,Great video!
+Video D,90000,4500,180,23.18.06,10,tag3|tag5,Channel C,Positive,90,Great video!
+Video E,110000,5500,220,23.19.06,29,tag2|tag4,Channel B,Positive,110,Great video!
+Video A,100000,5000,200,23.15.06,10,tag1|tag2,Channel A,neutral,100,not bad
+Video B,80000,4000,150,23.16.06,24,tag2|tag3,Channel B,neutral,80,not bad
+Video C,120000,6000,250,23.17.06,25,tag1|tag4,Channel A,negative,120,wrost video
+Video D,90000,4500,180,23.18.06,10,tag3|tag5,Channel C,negative,90,wrost video
+Video E,110000,5500,220,23.19.06,29,tag2|tag4,Channel B,negative,110,too bad
